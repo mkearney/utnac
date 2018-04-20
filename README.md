@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <p align="center">
-<img src="../utchapter/img/logo.png" />
+<img src="img/logo.png" />
 </p>
 utnac
 =====
