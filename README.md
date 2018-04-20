@@ -31,3 +31,21 @@ Keynote
 -   Pro-life conservatives should actually talk about ways to reduce abortions (contraceptives, etc.)
 -   Disagrees with traditional family value Republicans on the subject of the role of women in politics
 -   Interested to know more about the role of bots on social media---conservatives don't seem willing to admit they retweeted things from Russian bots
+
+Session 1
+---------
+
+-   **Facilitator**: Delaney Harness
+-   Affiliation: University of Texas at Austin
+
+#### Matt Grossman
+
+-   Affiliation: Michigan State University & David Hopkins, Boston College
+
+#### Nicole Hemmer
+
+-   Affiliation: University of Virginia
+
+#### Michael Lee
+
+-   Affiliation: University of Charleston
