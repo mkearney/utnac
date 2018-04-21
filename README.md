@@ -41,6 +41,9 @@ Session 1
 #### Matt Grossman
 
 -   Affiliation: Michigan State University & David Hopkins, Boston College
+-   Current state of conservatives
+-   Opposed to growth of the welfare state, making it a party that advance to defaults (in opposition)
+-   Conservative media is oppositional
 
 #### Nicole Hemmer
 
